@@ -1,18 +1,45 @@
-## Hi there 👋, Welcome! this is Prateek Mulye's Github
+# Hi, I'm Prateek Mulye 👋
 
-# 
+**Senior Backend Engineer (Java/Elixir) turned AI Practitioner**
 
-Senior Software Engineer building resilient backends, data pipelines, and pragmatic APIs.
+I bridge the gap between **Distributed Systems** and **Agentic AI**. My core expertise lies in building resilient, event-driven backends (Kafka, Kubernetes) and applying those same architectural principles to build stateful, non-deterministic AI agents.
 
-**Now building:** [F1 Agent – Race Predictor & Explainable Insights](https://github.com/prateekmulye/f1-agent) · Live: https://f1-agent.vercel.app
+---
 
-### Selected Projects
-- **F1 Agent** – TS/Next + Python; inference + feature engineering; explainable outputs. Live demo above.
-- **Synthetic Network Testing Microservice** – Spring Boot · Kafka · Postgres · Docker/K8s. Synthetic HTTP/ICMP tests, results to Kafka, persisted to Postgres. ([repo](https://github.com/prateekmulye/networks))
-- **Beginner EPR** – Elixir · Phoenix · GraphQL · React starter. ([repo](https://github.com/prateekmulye/beginner_epr))
+### 🌟 Featured Projects
 
-### Skills
-Elixir · Java · Python · TypeScript · GraphQL · Kafka · Postgres · Redis · Kubernetes · AWS
+#### 🏎️ **[f1-agent](https://github.com/prateekmulye/f1-agent)** (Agentic AI)
+* **What it is:** A multi-agent system that predicts F1 race outcomes and explains its reasoning.
+* **Why it matters:** Moves beyond simple RAG by using **LangGraph** for cyclic reasoning. It implements **ReAct** patterns, self-reflection, and checkpointers for time-travel debugging.
+* **Tech:** TypeScript, Python, OpenAI, Vector Stores.
 
-### Links
-[Download Resume](https://github.com/user-attachments/files/21748935/Prateek_Mulye-Resume_v1.pdf) · [LinkedIn](https://www.linkedin.com/in/prateekmulye/) · [Email](mailto:prateekmulye@gmail.com)
+#### 📡 **[synthetic-network-testing-microservice](https://github.com/prateekmulye/networks)** (Distributed Systems)
+* **What it is:** A high-throughput network observability system.
+* **Why it matters:** Demonstrates "Senior" backend architecture. It handles synthetic HTTP/ICMP probing at scale, decoupling ingestion from processing using **Kafka** for resilience.
+* **Tech:** Java (Spring Boot), Kafka, PostgreSQL, Docker/K8s.
+
+#### 🗺️ **[geo-standardization-case-study](https://github.com/prateekmulye/geo-standardization-case-study)** (Data Engineering)
+* **What it is:** A case study on normalizing and standardizing complex geospatial data.
+* **Why it matters:** Clean data is the fuel for AI. This project showcases the data engineering rigor required before feeding data into LLMs or RAG pipelines.
+* **Tech:** Python, Pandas, Data Normalization Algorithms.
+
+---
+
+### ⚡ Technical Arsenal
+
+| Domain | Technologies |
+| :--- | :--- |
+| **AI & Agents** | LangChain, LangGraph, RAG, Vector DBs, Prompt Engineering |
+| **Backend Core** | Java (Spring Boot), Elixir (Phoenix), Python |
+| **Distributed Systems** | Apache Kafka, gRPC, PostgreSQL, Redis |
+| **DevOps & Cloud** | Kubernetes, Docker, AWS, Terraform |
+
+---
+
+### 🔍 Recent Activity
+* Exploring **Multi-Agent Orchestration** patterns.
+* Deep diving into **Graph RAG** techniques.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/prateekmulye/) • [Portfolio](https://f1-agent.vercel.app)
