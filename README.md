@@ -1,6 +1,6 @@
 # Hi, I'm Prateek Mulye 👋
 
-**Senior Backend Engineer (Java/Elixir) turned AI Practitioner**
+**Senior Backend Engineer (Java/Elixir/Python) turned AI Practitioner**
 
 I bridge the gap between **Distributed Systems** and **Agentic AI**. My core expertise lies in building resilient, event-driven backends (Kafka, Kubernetes) and applying those same architectural principles to build stateful, non-deterministic AI agents.
 
@@ -11,7 +11,7 @@ I bridge the gap between **Distributed Systems** and **Agentic AI**. My core exp
 #### 🏎️ **[f1-agent](https://github.com/prateekmulye/f1-agent)** (Agentic AI)
 * **What it is:** A multi-agent system that predicts F1 race outcomes and explains its reasoning.
 * **Why it matters:** Moves beyond simple RAG by using **LangGraph** for cyclic reasoning. It implements **ReAct** patterns, self-reflection, and checkpointers for time-travel debugging.
-* **Tech:** TypeScript, Python, OpenAI, Vector Stores.
+* **Tech:** Python, Streamlit, LangChain, LangGraph, OpenAI, Vector Stores.
 
 #### 📡 **[synthetic-network-testing-microservice](https://github.com/prateekmulye/networks)** (Distributed Systems)
 * **What it is:** A high-throughput network observability system.
