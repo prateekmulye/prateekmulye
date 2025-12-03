@@ -8,7 +8,7 @@ I bridge the gap between **Distributed Systems** and **Agentic AI**. My core exp
 
 ### 🌟 Featured Projects
 
-#### 🏎️ **[f1-agent](https://github.com/prateekmulye/f1-agent)** (Agentic AI)
+#### 🏎️ **[ChatFormula 1](https://github.com/prateekmulye/ChatFormula1)** (Agentic AI)
 * **What it is:** A multi-agent system that predicts F1 race outcomes and explains its reasoning.
 * **Why it matters:** Moves beyond simple RAG by using **LangGraph** for cyclic reasoning. It implements **ReAct** patterns, self-reflection, and checkpointers for time-travel debugging.
 * **Tech:** Python, Streamlit, LangChain, LangGraph, OpenAI, Vector Stores.
