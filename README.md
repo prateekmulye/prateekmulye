@@ -1,22 +1,12 @@
-<div align="center">
+# Hi, I'm Prateek
 
-<img src="./assets/banner.svg" alt="Prateek Mulye — Senior Full-Stack Engineer, backend-heavy" width="100%" />
+I'm a backend engineer. Most of my 11+ years has been on systems where losing or double-handling a message means real money goes the wrong way: payments, banking, and a data platform running 30M+ rows in Postgres. I tend to care most about the boring parts, like catching a bad input and retrying it instead of letting it quietly break something at 2am.
 
-<br/>
+Lately I build with AI on the side too, mostly small RAG and agent projects. A couple are below.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prateekmulye.dev-E6C79C?style=flat-square&labelColor=11161D)](https://prateekmulye.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prateekmulye-74B3FF?style=flat-square&labelColor=11161D&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateekmulye/)
-[![Email](https://img.shields.io/badge/Email-prateekmulye@gmail.com-9BA6B2?style=flat-square&labelColor=11161D&logo=gmail&logoColor=white)](mailto:prateekmulye@gmail.com)
+Right now I'm a Senior Software Engineer at Agilent on the manufacturing side, where part of the job is helping the team actually use AI day to day. Before that: HG Insights, Capital One (through Cognizant), and AurionPro.
 
-</div>
-
----
-
-I build back-end systems that hold up under real load, and lately I bring the same discipline to applied AI. The backbone is distributed systems: event-driven services on **Kafka**, **PostgreSQL** tuned past 30M rows, clean recovery from bad input, and the service contracts that keep things honest when traffic spikes. I learned that first on financial and banking platforms where a mistake costs money.
-
-When something breaks I want to see it immediately and recover without losing data. I would rather ship something predictable I can explain than something clever that surprises people in production.
-
-Currently a **Senior Software Engineer in manufacturing at Agilent Technologies**, where I improve plant processes and put AI to practical use internally. Previously HG Insights, Capital One (as a consultant through Cognizant), and AurionPro Solutions. **11+ years** in all.
+[prateekmulye.dev](https://prateekmulye.dev) · [LinkedIn](https://www.linkedin.com/in/prateekmulye/) · [Email](mailto:prateekmulye@gmail.com)
 
 ## Featured work
 
@@ -45,6 +35,6 @@ A reactive API publishes a request to Kafka, a consumer runs a deterministic sim
 
 <div align="center">
 
-Read the full story, and ask my site anything, at **[prateekmulye.dev](https://prateekmulye.dev)**.
+More at **[prateekmulye.dev](https://prateekmulye.dev)**.
 
 </div>
